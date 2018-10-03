@@ -1,0 +1,9 @@
+{
+  "name": "project",
+  "description": "Minimal project example",
+  "version": "0.0.1",
+  "dependencies": {
+    "@types/jest": "*"
+  },
+  "license": "MIT"
+}
